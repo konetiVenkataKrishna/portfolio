@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "KVK Portfolio",
     type: "website",
-    url: "",
+    url: "https://portfolio-kvk.netlify.app/",
   },
 };
 
@@ -24,9 +24,8 @@ const greeting = {
   nickname: "MERN stack Web Developer",
   subTitle:
     "I am the one, who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
-  resumeLink:
-    "",
-  portfolio_repository: "",
+  resumeLink:"https://drive.google.com/file/d/1ldVv6hg1OPONEG43EnMV5I0fbaoaHyZ9/view?usp=sharing",
+  portfolio_repository: "https://portfolio-kvk.netlify.app/",
   githubProfile: "https://github.com/codingIsNotMyPassion",
   githubRepos: "https://github.com/codingIsNotMyPassion?tab=repositories"
 };
