@@ -35,7 +35,7 @@ export default function GithubRepoCard({ repo, theme }) {
                 border: "2px solid black",
               }}
             >
-              deployment
+              deployed site
             </button>
           </a>
           <div
@@ -56,7 +56,7 @@ export default function GithubRepoCard({ repo, theme }) {
                   marginRight: 3,
                 }}
               >
-                Frontend repo
+                Frontend git
               </button>
             </a>       
             <a href={repo.backend} target="_blank" rel="noopener noreferrer">
@@ -72,7 +72,7 @@ export default function GithubRepoCard({ repo, theme }) {
                   marginLeft: 3,
                 }}
               >
-                Backend repo
+                Backend git
               </button>
             </a>
           </div>
