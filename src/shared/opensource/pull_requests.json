@@ -1,0 +1,932 @@
+{
+  "data": [
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA5NDQxNDk1",
+      "title": "Developed the food order and delivery application with a few patch fixes",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/food-order/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-05-22T12:34:31Z",
+      "number": 1746,
+      "changedFiles": 2,
+      "additions": 34,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "Food-Delivery",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/food-order",
+        "owner": {
+          "avatarUrl": "https://previews.123rf.com/images/miracel123/miracel1231801/miracel123180100095/94124044-food-delivery-logo.jpg",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/food-order"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA5NDQxNDk1",
+      "title": "Made a few changes in the API's for food delivery",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/food-backend/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-05-13T12:33:31Z",
+      "number": 1746,
+      "changedFiles": 2,
+      "additions": 56,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "Food-Delivery-Backend",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/food-backend",
+        "owner": {
+          "avatarUrl": "https://previews.123rf.com/images/miracel123/miracel1231801/miracel123180100095/94124044-food-delivery-logo.jpg",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/food-backend"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA5NDQxNDk1",
+      "title": "Commited 2 changes for the React markdown editor to create the responsive web application",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/React-Markdown-Viewer-frontend/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-05-13T11:34:31Z",
+      "number": 1746,
+      "changedFiles": 2,
+      "additions": 1,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "Markdown-Editor",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/React-Markdown-Viewer-frontend",
+        "owner": {
+          "avatarUrl": "https://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/React-Markdown-Viewer-frontend"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA5MDU3MDUz",
+      "title": "Created an API to perform CRUD Opearations",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/React-Markdown-Viewer-backend/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-05-13T10:17:22Z",
+      "number": 1732,
+      "changedFiles": 3,
+      "additions": 512,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Markdown-Editor",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/React-Markdown-Viewer-backend",
+        "owner": {
+          "avatarUrl": "https://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/React-Markdown-Viewer-backend"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA5MDU3MDUz",
+      "title": "Created a table to store the census data",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/census-data-frontend/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-05-31T10:17:22Z",
+      "number": 1732,
+      "changedFiles": 3,
+      "additions": 512,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Census-UserData",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/census-data-frontend",
+        "owner": {
+          "avatarUrl": "https://thumbs.dreamstime.com/b/vector-logo-census-population-count-vector-logo-census-population-count-demographic-statistics-157398479.jpg",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/census-data-frontend"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA5MDU3MDUz",
+      "title": "Created an API to store the census data and perform CRUD on each user",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/census-data-server/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-05-31T10:17:22Z",
+      "number": 1732,
+      "changedFiles": 3,
+      "additions": 512,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Census-UserData",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/census-data-server",
+        "owner": {
+          "avatarUrl": "https://thumbs.dreamstime.com/b/vector-logo-census-population-count-vector-logo-census-population-count-demographic-statistics-157398479.jpg",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/census-data-server"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA4OTAxNTAy",
+      "title": "API Creation for a Quiz application in connection with MongoDB",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/quiz-app-backend/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-04-27T12:33:41Z",
+      "number": 1729,
+      "changedFiles": 2,
+      "additions": 60,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "Quiz Application Backend",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/quiz-app-backend",
+        "owner": {
+          "avatarUrl": "https://previews.123rf.com/images/alexwhite/alexwhite1605/alexwhite160505290/57188681-quiz-icon-green-modern-design-glossy-round-button-web-and-mobile-app-design-illustration.jpg",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/quiz-app-backend"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA4ODY0NDU1",
+      "title": "Created a responsive web application for and commited 10 changes",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/quiz-app-fullstack/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-04-27T07:19:04Z",
+      "number": 1728,
+      "changedFiles": 10,
+      "additions": 80,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "Quiz Application Frontend",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/quiz-app-fullstack",
+        "owner": {
+          "avatarUrl": "https://previews.123rf.com/images/alexwhite/alexwhite1605/alexwhite160505290/57188681-quiz-icon-green-modern-design-glossy-round-button-web-and-mobile-app-design-illustration.jpg",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/quiz-app-fullstack"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA3ODkzNjM0",
+      "title": "Setting up an application with EJS for URL Shortener",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-45/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-04-12T12:48:04Z",
+      "number": 4,
+      "changedFiles": 19,
+      "additions": 38,
+      "deletions": 47,
+      "baseRepository": {
+        "name": "URL-Shortener",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-45",
+        "owner": {
+          "avatarUrl": "https://www.kindpng.com/picc/m/23-230826_url-shortener-logo-hd-png-download.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-45"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA3ODgxNTk0",
+      "title": "Created the items and change the state of the buttons upon item addition to the cart",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-cart-task/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-04-02T12:24:42Z",
+      "number": 3,
+      "changedFiles": 1,
+      "additions": 32,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Cart-Items",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-cart-task",
+        "owner": {
+          "avatarUrl": "https://png.pngtree.com/png-vector/20190501/ourlarge/pngtree-verified-cart-items-icon-design-png-image_1013294.jpg",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-cart-task"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA3MDkwMTk5",
+      "title": "Added the security authentication using JWT for forgot-password",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-44/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-03-27T07:05:25Z",
+      "number": 1715,
+      "changedFiles": 1,
+      "additions": 84,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "JWT token",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-44",
+        "owner": {
+          "avatarUrl": "http://jwt.io/img/logo-asset.svg",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-44"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA1NTk5NjAx",
+      "title": "Created a CRUD Operation using axios and formik",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-33/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-04-29T03:52:25Z",
+      "number": 1709,
+      "changedFiles": 3,
+      "additions": 131,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "CRUD using AXIOS",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-33",
+        "owner": {
+          "avatarUrl": "https://miro.medium.com/max/698/1*ctFfwgFKSwGu1SYHHQN3-w.jpeg",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-33"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA1NDkyMDkw",
+      "title": "Students and Teachers have been created with a correlative relation between them",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-31/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-02-12T12:26:37Z",
+      "number": 38669,
+      "changedFiles": 1,
+      "additions": 16,
+      "deletions": 8,
+      "baseRepository": {
+        "name": "Student & Teacher Relation",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-31",
+        "owner": {
+          "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-31"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA1NDQ3MTk1",
+      "title": "Commited the CRUD using the Context-API",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/CRUD-using-Context-API/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-01-31T05:20:34Z",
+      "number": 1702,
+      "changedFiles": 2,
+      "additions": 27,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "CRUD using Context-API",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/CRUD-using-Context-API",
+        "owner": {
+          "avatarUrl": "https://res.cloudinary.com/practicaldev/image/fetch/s--Qj17HL0m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/emdosd9tj8bfly5is35y.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/CRUD-using-Context-API"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA1MTAzNjY3",
+      "title": "Added minute changes to the web scrapping application API",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/webScrapping-Ecommerce-backend/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-04-11T12:27:37Z",
+      "number": 1688,
+      "changedFiles": 6,
+      "additions": 46,
+      "deletions": 90,
+      "baseRepository": {
+        "name": "Web Scrapping Backend",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/webScrapping-Ecommerce-backend",
+        "owner": {
+          "avatarUrl": "https://e7.pngegg.com/pngimages/254/863/png-clipart-web-scraping-computer-icons-youtube-youtube-leaf-logo.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/webScrapping-Ecommerce-backend"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA0MTU2NDUy",
+      "title": "Developed a responsive user interface to fetch the list of web scrapping items",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/webScrapping-Ecommerce/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-04-22T06:59:30Z",
+      "number": 1679,
+      "changedFiles": 4,
+      "additions": 573,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Web Scrapping Frontend",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/webScrapping-Ecommerce",
+        "owner": {
+          "avatarUrl": "https://e7.pngegg.com/pngimages/254/863/png-clipart-web-scraping-computer-icons-youtube-youtube-leaf-logo.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/webScrapping-Ecommerce"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAzNzQwMjM1",
+      "title": "Commited the queries of a ZEN task using Mongo Syntax",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-39/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-02-10T12:51:00Z",
+      "number": 1674,
+      "changedFiles": 1,
+      "additions": 19,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "MongoDB Queries for ZEN",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-39",
+        "owner": {
+          "avatarUrl": "https://www.pngkit.com/png/detail/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-39"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAzMTcxMjA3",
+      "title": "CRUD using Formik",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-34/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-03-24T13:04:03Z",
+      "number": 1667,
+      "changedFiles": 1,
+      "additions": 199,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "CRUD using Formik",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-34",
+        "owner": {
+          "avatarUrl": "https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-34"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAyOTg1MDU4",
+      "title": "Fetched the Current date and time using Node and Express",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-40/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-03-14T05:58:52Z",
+      "number": 1665,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Current Date and Time",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-40",
+        "owner": {
+          "avatarUrl": "https://www.howtogeek.com/wp-content/uploads/csit/2019/07/2350564e.png?width=1198&trim=1,1&bg-color=000&pad=1,1",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-40"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAyNjMyMzcz",
+      "title": "SQL Queries for a table",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-38/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-02-13T12:57:08Z",
+      "number": 38499,
+      "changedFiles": 2,
+      "additions": 10,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "SQL Queries",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-38",
+        "owner": {
+          "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-38"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAyMjg2MTk1",
+      "title": "Created a Mongo Queries to create a json data",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-37/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-02-28T04:42:01Z",
+      "number": 1649,
+      "changedFiles": 2,
+      "additions": 102,
+      "deletions": 58,
+      "baseRepository": {
+        "name": "Mongo Queries to create JSON data",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-37",
+        "owner": {
+          "avatarUrl": "https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-37"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAyMTg1MzUy",
+      "title": "Created SQL Queries for a table",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-36/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-03-21T12:44:29Z",
+      "number": 1647,
+      "changedFiles": 3,
+      "additions": 687,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "SQL Queries for a table",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-36",
+        "owner": {
+          "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-36"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAyMTM5OTM5",
+      "title": "Corrections made in the HTML code",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-6/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2021-12-11T04:46:51Z",
+      "number": 38447,
+      "changedFiles": 1,
+      "additions": 3,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "HTML Code Corrections",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-6",
+        "owner": {
+          "avatarUrl": "https://e7.pngegg.com/pngimages/840/443/png-clipart-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-6"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAxNzgxODEy",
+      "title": "Added all the necessary logics to To-Do List",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day_27/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-01-10T06:46:53Z",
+      "number": 1535,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "TO-DO List",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day_27",
+        "owner": {
+          "avatarUrl": "https://cdn-icons-png.flaticon.com/512/1/1560.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day_27"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAwMTA5MjQ0",
+      "title": "Developed a price table for each time with disabled and enabled items",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-26-Price-table/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-01-03T08:09:48Z",
+      "number": 111,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Price-Table",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-26-Price-table",
+        "owner": {
+          "avatarUrl": "https://i.pinimg.com/736x/c3/4b/73/c34b73b37b127cce382efd3b39e924c9.jpg",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-26-Price-table"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mzk5NTk4Mjk2",
+      "title": "Setup a decerement counter for a message to be shown",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-25-Task-3/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-03-02T12:06:58Z",
+      "number": 37,
+      "changedFiles": 2,
+      "additions": 105,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Decremented Counter",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-25-Task-3",
+        "owner": {
+          "avatarUrl": "https://image.shutterstock.com/image-vector/counter-logo-concept-black-white-600w-1473257840.jpg",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-25-Task-3"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mzk5MDI1MDc3",
+      "title": "Fetched the Covid data across the world",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-25-Task-1/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-01-05T10:57:55Z",
+      "number": 35,
+      "changedFiles": 1,
+      "additions": 49,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Covid Data",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-25-Task-1",
+        "owner": {
+          "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZILYDgLhHTssOAf4KEt3xAOPHQt9YFX5FCi2HDE81_p3s5V2SzNHdMddTf_rO3zNOArw&usqp=CAU",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-25-Task-1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mzk4MDc0NjYy",
+      "title": "Made some basic Changes in the application",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-25-Task-2/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2021-12-03T09:52:10Z",
+      "number": 76,
+      "changedFiles": 15,
+      "additions": 45,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Application",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-25-Task-2",
+        "owner": {
+          "avatarUrl": "https://cdn-icons-png.flaticon.com/512/73/73465.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-25-Task-2"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mzk3OTQzMTk3",
+      "title": "Developed a review and rating application with changes",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Hackathon-Task-1/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-01-01T05:21:40Z",
+      "number": 74,
+      "changedFiles": 18,
+      "additions": 463,
+      "deletions": 295,
+      "baseRepository": {
+        "name": "Rating Application",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Hackathon-Task-1",
+        "owner": {
+          "avatarUrl": "https://cdn4.vectorstock.com/i/1000x1000/13/68/app-rating-glyph-icon-vector-29051368.jpg",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Hackathon-Task-1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mzk3NDkxODM2",
+      "title": "Created a Form with a table to fetch the data",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-19-Task-2/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-02-20T10:32:52Z",
+      "number": 22750,
+      "changedFiles": 1,
+      "additions": 13,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Form with the table",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-19-Task-2",
+        "owner": {
+          "avatarUrl": "https://w7.pngwing.com/pngs/127/497/png-transparent-note-with-pen-logo-computer-icons-form-register-button-miscellaneous-angle-text.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-19-Task-2"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mzk2OTUwMDgy",
+      "title": "Inserted all the Operations in the Calculator",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-19-Task-1/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-03-07T12:00:52Z",
+      "number": 1528,
+      "changedFiles": 1,
+      "additions": 4,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "Calculator",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-19-Task-1",
+        "owner": {
+          "avatarUrl": "https://static.vecteezy.com/system/resources/previews/002/292/457/original/illustration-of-calculator-icon-symbol-free-vector.jpg",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-19-Task-1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mzk0MDU1Njc1",
+      "title": "Fetched the data from XML HTTP request with changes",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-9/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2021-11-30T09:36:30Z",
+      "number": 3119,
+      "changedFiles": 2,
+      "additions": 6,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "XML-HTTP request",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-9",
+        "owner": {
+          "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Extensible_Markup_Language_%28XML%29_logo.svg/1200px-Extensible_Markup_Language_%28XML%29_logo.svg.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-9"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkzOTY1MDAz",
+      "title": "Blended all the information related to the vehicles with number of seats available",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-16-Task-2-/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2021-12-30T05:27:07Z",
+      "number": 37925,
+      "changedFiles": 1,
+      "additions": 94,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Vehicle Booking",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-16-Task-2-",
+        "owner": {
+          "avatarUrl": "https://www.clipartmax.com/png/middle/195-1956483_car-booking-icon-taxi-booking-icon.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-16-Task-2-"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkzNDgxODcy",
+      "title": "Developed a feedback form with options to choose",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-16-Task-1-/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2022-01-06T09:39:40Z",
+      "number": 18949,
+      "changedFiles": 1,
+      "additions": 9,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "Feedback form",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-16-Task-1-",
+        "owner": {
+          "avatarUrl": "https://cdn1.vectorstock.com/i/thumb-large/42/75/feedback-icon-simple-element-vector-27044275.jpg",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-16-Task-1-"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkzNDU3NDQ2",
+      "title": "Added the async and await requests to the usecase",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Async-Practice/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2021-12-29T08:43:57Z",
+      "number": 1958,
+      "changedFiles": 1,
+      "additions": 90,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Async",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Async-Practice",
+        "owner": {
+          "avatarUrl": "https://icones.pro/wp-content/uploads/2021/05/icone-html-bleue.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Async-Practice"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkyODI5NzM5",
+      "title": "Designed an HTML form with no stylings",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-30-12-2021/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2021-12-16T07:46:29Z",
+      "number": 1951,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "Basic HTML Forms",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-30-12-2021",
+        "owner": {
+          "avatarUrl": "https://icones.pro/wp-content/uploads/2021/05/icone-html-bleue.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-30-12-2021"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkyNzc5NTI3",
+      "title": "Provided a Callback function with a decrement counter and message",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-17-01-2022/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2021-12-20T05:09:43Z",
+      "number": 37855,
+      "changedFiles": 2,
+      "additions": 7,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "CallBack Function",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-17-01-2022",
+        "owner": {
+          "avatarUrl": "https://icones.pro/wp-content/uploads/2021/05/icone-html-bleue.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-17-01-2022"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkyNzY2NzIy",
+      "title": "Inserted a Cell with DOM Manipulation",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/DOM-Exercise-task-Day-20/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2021-12-01T04:19:08Z",
+      "number": 37853,
+      "changedFiles": 1,
+      "additions": 17,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "DOM",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/DOM-Exercise-task-Day-20",
+        "owner": {
+          "avatarUrl": "https://icones.pro/wp-content/uploads/2021/05/icone-html-bleue.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/DOM-Exercise-task-Day-20"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkyNDAyOTI2",
+      "title": "Iteration with a loop including an image",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Image-Border/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2021-12-03T13:58:48Z",
+      "number": 37832,
+      "changedFiles": 1,
+      "additions": 7,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "ForEach loop Iteration",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Image-Border",
+        "owner": {
+          "avatarUrl": "https://icones.pro/wp-content/uploads/2021/05/icone-html-bleue.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Image-Border"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkyMzA4MDUy",
+      "title": "Developed Arrow functions and Anonymous functions using JavaScript",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-5/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2021-12-04T10:51:46Z",
+      "number": 35,
+      "changedFiles": 1,
+      "additions": 7,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "Different Functions",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-5",
+        "owner": {
+          "avatarUrl": "https://icones.pro/wp-content/uploads/2021/05/icone-html-bleue.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-5"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkyMTcxNjYw",
+      "title": "Developed the Object functions with different elements",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-4/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2021-12-10T05:44:31Z",
+      "number": 178,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "Objects",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-4",
+        "owner": {
+          "avatarUrl": "https://icones.pro/wp-content/uploads/2021/05/icone-html-bleue.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-4"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkyMTYxMjc3",
+      "title": "Developed Own resume data using JSON",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-3/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2021-11-30T05:11:44Z",
+      "number": 37816,
+      "changedFiles": 1,
+      "additions": 6,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "JSON Data",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-3",
+        "owner": {
+          "avatarUrl": "https://icones.pro/wp-content/uploads/2021/05/icone-html-bleue.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-3"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkxOTY4ODE2",
+      "title": "Created the datatype for different elements",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-2/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2021-11-29T07:43:55Z",
+      "number": 8574,
+      "changedFiles": 1,
+      "additions": 4,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Datatypes",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-2",
+        "owner": {
+          "avatarUrl": "https://icones.pro/wp-content/uploads/2021/05/icone-html-bleue.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-2"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkxOTYwMDI5",
+      "title": "Created the Objects with new keyword",
+      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-1/graphs/commit-activity",
+      "state": "MERGED",
+      "mergedBy": null,
+      "createdAt": "2021-11-28T05:38:59Z",
+      "number": 8573,
+      "changedFiles": 1,
+      "additions": 38,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Object Creation with new Keyword",
+        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-1",
+        "owner": {
+          "avatarUrl": "https://icones.pro/wp-content/uploads/2021/05/icone-html-bleue.png",
+          "login": "Jagadeesh-Vadlamuri",
+          "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-1"
+        }
+      }
+    }
+  ],
+  "open": 0,
+  "closed": 0,
+  "commited": 44,
+  "totalCount": 44
+}
