@@ -214,8 +214,8 @@ const certifications = {
 
 // Experience Page
 const experience = {
-  title: "Experience",
-  subtitle: "Training, Work",
+  title: "Certification",
+  subtitle: "Training",
   description:
     "I have learnt Full Stack Web Development in GUVI with JavaScript as my primary language and developed many frontend projects and full stack projects with a good web responsiveness",
   header_image_path: "experience.svg",

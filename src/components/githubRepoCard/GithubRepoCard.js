@@ -1,4 +1,5 @@
 import React from "react";
+import ProjectLanguages from "../../components/projectLanguages/ProjectLanguages";
 import "./GithubRepoCard.css";
 import { Fade } from "react-reveal";
 
@@ -13,15 +14,23 @@ export default function GithubRepoCard({ repo, theme }) {
         >
           <div className="container repo-name-div">
             <div className="d-flex flex-column justify-content-center align-items-center">
-              <p className="repo-name" style={{ color: theme.text}}>
+              <div className="d-flex justify-content-center">
+                <img
+                  src={repo.image_path}
+                  alt={repo.alt}
+                  className="card-img-top"
+                  style={{ width: '330px', height: "180px", textAlign: 'center' }}
+                />
+              </div>
+              <p className="repo-name" style={{ color: theme.text }}>
                 {repo.name}
               </p>
               <p className="repo-description" style={{ color: theme.text }}>
-            {repo.description}
-          </p>
-              </div>
+                {repo.description}
+              </p>
+            </div>
           </div>
-          
+
           <a href={repo.live_app} target="_blank" rel="noopener noreferrer">
             <button
               className="btn btn-primary"
@@ -42,7 +51,7 @@ export default function GithubRepoCard({ repo, theme }) {
             className="d-flex justify-content-around align-items-center"
             style={{ marginTop: 10 }}
           >
-            
+
             <a href={repo.frontend} target="_blank" rel="noopener noreferrer">
               <button
                 style={{
@@ -58,7 +67,7 @@ export default function GithubRepoCard({ repo, theme }) {
               >
                 Frontend git
               </button>
-            </a>       
+            </a>
             <a href={repo.backend} target="_blank" rel="noopener noreferrer">
               <button
                 style={{
@@ -76,6 +85,10 @@ export default function GithubRepoCard({ repo, theme }) {
               </button>
             </a>
           </div>
+          <ProjectLanguages
+            className="repo-languages"
+            logos={repo.languages}
+          />
         </div>
       </Fade>
     </div>
