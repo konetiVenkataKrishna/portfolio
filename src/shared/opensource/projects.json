@@ -7,7 +7,7 @@
       "live_app":"https://blog-kvk.netlify.app/",
       "description":"blogging website",
       "image_path": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/03/what-is-a-blog.webp",
-      "alt":"",
+      "alt":"Blog",
       "languages": [
         { "name": "React", "iconifyClass": "logos-react" },
         { "name": "Node", "iconifyClass": "logos-nodejs" },
@@ -18,54 +18,51 @@
       ]
     },
     {
-      "name":"Books Directory",
+      "name":"Book keeper",
       "frontend":"https://github.com/codingIsNotMyPassion/books-frontend",
       "backend":"https://github.com/codingIsNotMyPassion/books-backend",
       "live_app":"https://books-kvk.netlify.app/",
       "description":"A repository with books details",
-      "image_path":"",
-      "alt":"",
+      "image_path":"https://png.pngtree.com/element_our/20200610/ourlarge/pngtree-library-books-image_2249189.jpg",
+      "alt":"books",
       "languages": [
         { "name": "React", "iconifyClass": "logos-react" },
         { "name": "Node", "iconifyClass": "logos-nodejs" },
         { "name": "Bootstrap", "iconifyClass": "logos-bootstrap" },
         {"name":"express", "iconifyClass":"logos-express"},
-        {"name":"mongodb", "iconifyClass":"logos-mongodb"},
-        {"name":"material-ui", "iconifyClass":"logos-material-ui"}
+        {"name":"mongodb", "iconifyClass":"logos-mongodb"}
       ]
     },
     {
-      "name":"Goals",
+      "name":"Goal tracker",
       "frontend":"https://github.com/codingIsNotMyPassion/goals-frontend",
       "backend":"https://github.com/codingIsNotMyPassion/goals-backend",
       "live_app":"https://goals-kvk.netlify.app/",
       "description":"set goals and track them",
-      "image_path":"",
-      "alt":"",
+      "image_path":"https://png.pngitem.com/pimgs/s/519-5194627_goal-clipart-hd-png-download.png",
+      "alt":"goals",
       "languages": [
         { "name": "React", "iconifyClass": "logos-react" },
         { "name": "Node", "iconifyClass": "logos-nodejs" },
         { "name": "Bootstrap", "iconifyClass": "logos-bootstrap" },
         {"name":"express", "iconifyClass":"logos-express"},
-        {"name":"mongodb", "iconifyClass":"logos-mongodb"},
-        {"name":"material-ui", "iconifyClass":"logos-material-ui"}
+        {"name":"mongodb", "iconifyClass":"logos-mongodb"}
       ]
     },
     {
-      "name":"gold rate calculator",
+      "name":"Gold rate calculator",
       "frontend":"https://github.com/codingIsNotMyPassion/gold-rate-calculator-frontend",
       "backend":"https://github.com/codingIsNotMyPassion/gold-rate-calculator-backend",
       "live_app":"https://gold-rate-calculator.netlify.app/",
       "description":"get todays gold price by selection of option",
-      "image_path":"",
-      "alt":"",
+      "image_path":"https://m.economictimes.com/thumb/msid-94167727,width-1200,height-900,resizemode-4,imgsize-126368/gold-rate-today-yellow-metal-drops-further-silver-holds-rs-57000-on-mcx.jpg",
+      "alt":"gold",
       "languages": [
         { "name": "React", "iconifyClass": "logos-react" },
         { "name": "Node", "iconifyClass": "logos-nodejs" },
         { "name": "Bootstrap", "iconifyClass": "logos-bootstrap" },
         {"name":"express", "iconifyClass":"logos-express"},
-        {"name":"mongodb", "iconifyClass":"logos-mongodb"},
-        {"name":"material-ui", "iconifyClass":"logos-material-ui"}
+        {"name":"mongodb", "iconifyClass":"logos-mongodb"}
       ]
     }
   ]
